@@ -107,11 +107,12 @@ Guardar y reiniciar el proyecto (npm run dev).
 
 🧑 Autor: Lucas Lapioggia
 
-🌐 Proyecto desarrollado como entrega final de e-commerce con React.
+🌐 Proyecto desarrollado como entrega final de e-commerce con React, para curso de React Js Coderhouse
 
 📝 Licencia
 
 Este proyecto es de uso libre con fines educativos.
+
 
 
 
