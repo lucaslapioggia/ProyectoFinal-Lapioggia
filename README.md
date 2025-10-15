@@ -41,7 +41,7 @@ ProyectoFinal+Lapioggia/
 
 📥 Clonar este repositorio:
 
-git clone https://github.com/TU_USUARIO/ProyectoFinal-Lapioggia.git
+git clone https://github.com/lucaslapioggia/ProyectoFinal-Lapioggia.git
 
 
 📂 Entrar en la carpeta del proyecto:
@@ -112,5 +112,6 @@ Guardar y reiniciar el proyecto (npm run dev).
 📝 Licencia
 
 Este proyecto es de uso libre con fines educativos.
+
 
 
