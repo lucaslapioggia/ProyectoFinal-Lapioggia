@@ -41,7 +41,7 @@ ProyectoFinal+Lapioggia/
 
 📥 Clonar este repositorio:
 
-git clone https://github.com/lucaslapioggia/ProyectoFinal-Lapioggia.git
+git clone https://github.com/TU_USUARIO/ProyectoFinal-Lapioggia.git
 
 
 📂 Entrar en la carpeta del proyecto:
@@ -105,23 +105,6 @@ Guardar y reiniciar el proyecto (npm run dev).
 
 📢 Mensajes condicionales (sin stock, carrito vacío, etc.)
 
-🧪 Productos de prueba
-
-
-Guardar y reiniciar el proyecto (npm run dev).
-
-🧭 Navegación principal
-
-🏠 Catálogo de productos
-
-🛒 Carrito de compras
-
-📄 Detalle de producto
-
-💳 Checkout
-
-📢 Mensajes condicionales (sin stock, carrito vacío, etc.)
-
 🧑 Autor: Lucas Lapioggia
 
 🌐 Proyecto desarrollado como entrega final de e-commerce con React.
@@ -129,4 +112,5 @@ Guardar y reiniciar el proyecto (npm run dev).
 📝 Licencia
 
 Este proyecto es de uso libre con fines educativos.
+
 
